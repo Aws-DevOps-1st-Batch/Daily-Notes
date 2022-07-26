@@ -1,0 +1,71 @@
+
+
+Jenkins OS --> JAVA ---
+Hudson --> jenkins
+
+CI/CD :
+
+Continuos Integration:  CI is the process of automating 
+the build and testing of
+code everytime when a team member commit
+ chnages to version control system (github)
+Tools: maven sonarqube nexus
+
+
+Benifits:
+
+Immediate bug detention
+No Integration step in the software development industry
+Deployment easy
+
+
+CI/CD
+CI/
+
+CD ----> Continuos delivery & Contionuos Deployment
+
+Delivery:  
+Client  --- Feature
+Facebook --> Videos download 
+
+Code done ---> Unit tests --> Integrate ---> Manual Step (Client) Accept --> Production
+
+
+Code done ---> Unit tests --> Integrate ---> --> Production (By Default) Product based Company 
+
+
+What Jenkins Can do ??
+
+Integration will happen at each level -->  github, bitbuckrt gitlba svn cvs maven gradle ant
+2. Generate test reports 
+3. Deploy artifact into multiple artifact repos nexus or jfrog
+4 . Notify Stakeholders Clients of build status fail success  
+
+Benifits
+OS , Great community support 
+Easy to install & simple config & GUI & 
+1500 + plugins maven tomcat
+https://plugins.jenkins.io
+jenkins.io
+
+Its built on Java ()
+
+WORA write once run anywhere
+
+Documentaion avaialble
+
+Popular CI/CD tools
+
+Jenkins   ---> Cloudbees Jenkins (Enterprise)  --> Jenkins community Support 
+Azure DevOps
+Team City
+Gitlab CI
+Circle CI
+
+
+
+Installation:   
+
+
+
+
